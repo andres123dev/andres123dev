@@ -1,7 +1,4 @@
-
 <h1 align="center">Andres Fernandez Buron</h1>  
-<h2>@andres123dev</h2>  
-
 <table width="100%" border="0" cellpadding="0" csellspacing="0">
 <thead>
 	<tr>
@@ -27,21 +24,19 @@
 	</tr>
 <tr>
 	<td width="50%" align="center" valign="top">
-		<p>Hola muy buenas, soy  **Andrés**, un desarrollador de España.</p>  
+		<p>Muy buenas, soy Andrés, un desarrollador de España.</p>  
 		<p>En mi perfil puedes ver algunos pequeños proyectos.</p>  
 	</td>
 	<td width="50%" align="center" valign="top">  
-		<p>Greetings, I'm **Andres**, a developer from Spain.</p>  
-		<p>In my profile you can see some litle proyects.</p>  
+		<p>Greetings, I'm Andres, a developer from Spain.</p>  
+		<p>In my profile you can see some litle projects.</p>  
 	</td>
 </tr>
 </thead>
 <tbody>
 <tr>
-	<th align="center" valign="middle" colspan="2"> Used technologies: </th>
+	<th colspan="2" align="center" valign="middle"> Most used technologies: </th>
 </tr>
-</thead>
-<tbody>
 <tr>
 	<th align="center" valign="middle" colspan="2"> Multiplatform development: </th>
 </tr>
@@ -106,7 +101,6 @@
 		....
 	</td>
 </tr>
-
 
 <tr>
 	<th align="center" valign="middle" colspan="2"> More tools: </th>
