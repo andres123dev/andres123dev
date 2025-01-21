@@ -25,11 +25,19 @@
 <tr>
 	<td width="50%" align="center" valign="top">
 		<p>Muy buenas, soy Andrés, un desarrollador de España.</p>  
-		<p>En mi perfil puedes ver algunos pequeños proyectos.</p>  
+		<p>En mi perfil puedes ver algunos pequeños proyectos cómo:</p>  
 	</td>
 	<td width="50%" align="center" valign="top">  
 		<p>Greetings, I'm Andres, a developer from Spain.</p>  
-		<p>In my profile you can see some litle projects.</p>  
+		<p>In my profile you can see some litle projects like:</p>  
+	</td>
+</tr>
+<tr>
+	<td colspan="2">
+		<ul>
+			<li> <a href="https://github.com/andres123dev/my-paint-board-vanilla/">My PaintBoard vanilla</a> </li>
+			<li> <a href="https://github.com/andres123dev/my-seo-analyzer/">My SEO analyzer</a> </li>
+		</ul>
 	</td>
 </tr>
 </thead>
