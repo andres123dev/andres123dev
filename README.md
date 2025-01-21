@@ -35,8 +35,15 @@
 <tr>
 	<td colspan="2">
 		<ul>
-			<li> <a href="https://github.com/andres123dev/my-paint-board-vanilla/">My PaintBoard vanilla</a> </li>
-			<li> <a href="https://github.com/andres123dev/my-seo-analyzer/">My SEO analyzer</a> </li>
+			<li> <a href="https://github.com/andres123dev/my-seo-analyzer/">My SEO analyzer</a>  
+				<br> Script to request a HTML document, analyze his SEO, and generate a report in PDF format.  
+			</li>
+			<li> <a href="https://github.com/andres123dev/my-url-scraper/">My URL scraper</a>  
+				<br> Console app to make a HTTP request to an URL and analyze the response interactively.  
+			</li>
+			<li> <a href="https://github.com/andres123dev/my-paint-board-vanilla/">My PaintBoard vanilla</a>  
+				<br> Paint board as (local) web application.  
+			</li>
 		</ul>
 	</td>
 </tr>
