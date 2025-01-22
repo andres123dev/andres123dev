@@ -1,6 +1,7 @@
-<h1 align="center">Andres Fernandez Buron</h1>  
-<table width="100%" border="0" cellpadding="0" csellspacing="0">
-<thead>
+<h1 align="center">Andres Fernandez Buron</h1> 
+
+<table width="100%" border="0" cellpadding="0" csellspacing="0" align="center">
+<tbody>
 	<tr>
 		<td colspan="2">
 			<pre>  
@@ -22,6 +23,11 @@
 			</pre>
 		</td>
 	</tr>
+<tr>
+	<td colspan="2" align="center">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres123dev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="andres123dev's GitHub Stats" width="100%" />
+	</td>
+</tr>
 <tr>
 	<td width="50%" align="center" valign="top">
 		<p>Muy buenas, soy Andrés, un desarrollador de España.</p>  
@@ -47,7 +53,10 @@
 		</ul>
 	</td>
 </tr>
-</thead>
+</tbody>
+</table>
+
+<table width="100%" border="0" cellpadding="0" csellspacing="0" align="center">
 <tbody>
 <tr>
 	<th align="center" valign="middle" colspan="2"> Multiplatform development: </th>
@@ -57,12 +66,12 @@
 		<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
 		<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
 		<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> </a> 
-		<a href="" target="_blank" rel="noreferrer"> <img src="" alt="Espressif" width="40" height="40" /> </a>
+		<a href="https://www.espressif.com" target="_blank" rel="noreferrer"> <img src="" alt="Espressif" width="40" height="40" /> </a>
 	</td>
 	<td width="50%" align="right" valign="top">
 		<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> 
 		<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> 
-		<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+		<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
 	</td>
 </tr>
 <tr>
@@ -71,23 +80,23 @@
 </tr>
 <tr>
 	<td width="50%" align="left" valign="top"> Frontend languajes:  <br>
-		<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-		<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+		<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML 5" width="40" height="40"/> </a> 
+		<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS 3" width="40" height="40"/> </a> 
+		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> </a> 
 	</td>
 	<td width="50%" align="right" valign="top"> Backend languajes:  <br>
-		<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+		<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a> 
 	</td>
 </tr>
 <tr>
 	<td width="50%" align="left" valign="top"> Frameworks:  <br>
-		<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-		<a href="https://jquery.com.org" target="_blank" rel="noreferrer"> <img src="https://jquery.com/jquery-wp-content/themes/jquery/images/logo-jquery.png" alt="jquery" width="120" height="40"/> </a> 
-		<a href="https://ajax.com.org" target="_blank" rel="noreferrer"> <img src="https://ajax.com/ajax-wp-content/themes/ajax/images/logo-ajax.png" alt="ajax" width="120" height="40"/> </a> 
-		<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
+		<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a> 
+		<a href="https://jquery.com.org" target="_blank" rel="noreferrer"> <img src="https://jquery.com/jquery-wp-content/themes/jquery/images/logo-jquery.png" alt="jQuery" width="120" height="40"/> </a> 
+		<a href="https://ajax.com.org" target="_blank" rel="noreferrer"> <img src="https://ajax.com/ajax-wp-content/themes/ajax/images/logo-ajax.png" alt="Ajax" width="120" height="40"/> </a> 
+		<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="ChartJs" width="40" height="40"/> </a> 
 	</td>
 	<td width="50%" align="right" valign="top"> CMS:  <br>
-		<a href="https://www.wordpress.org" target="_blank" rel="noreferrer"> <img src="https://s.w.org/favicon.ico?2" alt="wordpress" width="40" height="40"/> </a> 
+		<a href="https://www.wordpress.org" target="_blank" rel="noreferrer"> <img src="https://s.w.org/favicon.ico?2" alt="WordPress" width="40" height="40"/> </a> 
 	</td>
 </tr>
 
@@ -115,30 +124,27 @@
 <tr>
 	<td width="50%" align="left" valign="top">
 		<a href="" target="_blank" rel="noreferrer"> <img src="" alt="Apache HTTP server" width="40" height="40" /> </a>
-		<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-		<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
+		<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a> 
+		<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="Vagrant" width="40" height="40"/> </a> 
 		<a href="" target="_blank" rel="noreferrer"> <img src="" alt="Termux" width="40" height="40" /> </a>
-		....
+		<a href="" target="_blank" rel="noreferrer"> <img src="" alt="BSD" width="40" height="40" /> </a>
 	</td>
 	<td width="50%" align="right" valign="top">
-		<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-		....
+		<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="" alt="Git" width="40" height="40"/> </a> 
 	</td>
 </tr>
 
 <tr><th align="center" valign="middle" colspan="2"> GitHub stats: </th></tr>
 <tr>
 	<td width="50%" align="left" valign="top">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=andres123dev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="andres123dev" width="100%" />
+		<img src="https://github-readme-stats.vercel.app/api?username=andres123dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="andres123dev's GitHub Stats" width="100%" />
 	</td>
 	<td width="50%" align="right" valign="top">
-		<img src="https://github-readme-stats.vercel.app/api?username=andres123dev&show_icons=true&locale=en&theme=tokyonight" alt="andres123dev" width="100%" />
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=andres123dev&theme=tokyonight" alt="andres123dev" width="100%" />
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=andres123dev&theme=tokyonight&hide_border=true" alt="andres123dev's GitHub Stats" />
 	</td>
 </tr>
 </tbody>
 </table>
 
-<p align="right">
-	<img src="https://komarev.com/ghpvc/?username=andres123dev&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="andres123dev" />
-</p>
+![](https://komarev.com/ghpvc/?username=andres123dev)
+
