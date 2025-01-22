@@ -29,20 +29,20 @@
 	</td>
 	<td width="50%" align="center" valign="top">  
 		<p>Greetings, I'm Andres, a developer from Spain.</p>  
-		<p>In my profile you can see some litle projects like:</p>  
+		<p>In my profile you can see some little projects like:</p>  
 	</td>
 </tr>
 <tr>
 	<td colspan="2">
 		<ul>
 			<li> <a href="https://github.com/andres123dev/my-seo-analyzer/">My SEO analyzer</a>  
-				<br> Script to request a HTML document, analyze his SEO, and generate a report in PDF format.  
+				<br> Script to request a HTML webpage, analyze the SEO of the response and generate a report in PDF format. 
 			</li>
 			<li> <a href="https://github.com/andres123dev/my-url-scraper/">My URL scraper</a>  
-				<br> Console app to make a HTTP request to an URL and analyze the response interactively.  
+				<br> Terminal app to make a HTTP request to an URL and analyze interactively the response.  
 			</li>
 			<li> <a href="https://github.com/andres123dev/my-paint-board-vanilla/">My PaintBoard vanilla</a>  
-				<br> Paint board as (local) web application.  
+				<br> Paint board as local web application.  
 			</li>
 		</ul>
 	</td>
@@ -50,32 +50,22 @@
 </thead>
 <tbody>
 <tr>
-	<th colspan="2" align="center" valign="middle"> Most used technologies: </th>
-</tr>
-<tr>
 	<th align="center" valign="middle" colspan="2"> Multiplatform development: </th>
 </tr>
 <tr>
 	<td width="50%" align="left" valign="top">
-		<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-		<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+		<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
+		<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
+		<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> </a> 
+		<a href="" target="_blank" rel="noreferrer"> <img src="" alt="Espressif" width="40" height="40" /> </a>
 	</td>
 	<td width="50%" align="right" valign="top">
-		<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+		<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> 
+		<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> 
 		<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 	</td>
 </tr>
 <tr>
-	<td width="50%" align="left" valign="top">
-		<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-		....
-	</td>
-	<td width="50%" align="right" valign="top">
-		<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-		....
-	</td>
-</tr>
-
 <tr>
 	<th align="center" valign="middle" colspan="2"> Web development: </th>
 </tr>
@@ -105,15 +95,17 @@
 	<th align="center" valign="middle" colspan="2"> Data Bases: </th>
 </tr>
 <tr>
-	<td width="50%" align="left" valign="top"> Databases:  <br>
-		<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-		<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-		<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-		<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-		<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+	<td width="50%" align="left" valign="top"> DB Management Systems:  <br>
+		<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> 
+		<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/> </a> 
+		<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a> 
+		<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="OracleDB" width="40" height="40"/> </a> 
+		<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/> </a> 
 	</td>
-	<td width="50%" align="right" valign="top"> More:  <br>
-		....
+	<td width="50%" align="right" valign="top"> DB clients:  <br>
+		<a href="" target="_blank" rel="noreferrer"> <img src="" alt="HeidiSQL" width="40" height="40" /> </a>
+		<a href="" target="_blank" rel="noreferrer"> <img src="" alt="PhpMyAdmin" width="40" height="40" /> </a>
+		<a href="" target="_blank" rel="noreferrer"> <img src="" alt="DBheaver" width="40" height="40" /> </a>
 	</td>
 </tr>
 
@@ -122,8 +114,10 @@
 </tr>
 <tr>
 	<td width="50%" align="left" valign="top">
+		<a href="" target="_blank" rel="noreferrer"> <img src="" alt="Apache HTTP server" width="40" height="40" /> </a>
 		<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 		<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
+		<a href="" target="_blank" rel="noreferrer"> <img src="" alt="Termux" width="40" height="40" /> </a>
 		....
 	</td>
 	<td width="50%" align="right" valign="top">
