@@ -1,7 +1,7 @@
 <h1 align="center">Andres Fernandez Buron</h1> 
 
 <table width="100%" border="0" cellpadding="0" csellspacing="0" align="center">
-<tbody>
+<thead>
 	<tr>
 		<td colspan="2">
 			<pre>  
@@ -24,11 +24,6 @@
 		</td>
 	</tr>
 <tr>
-	<td colspan="2" align="center">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres123dev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="andres123dev's GitHub Stats" width="100%" />
-	</td>
-</tr>
-<tr>
 	<td width="50%" align="center" valign="top">
 		<p>Muy buenas, soy Andrés, un desarrollador de España.</p>  
 		<p>En mi perfil puedes ver algunos pequeños proyectos cómo:</p>  
@@ -47,16 +42,30 @@
 			<li> <a href="https://github.com/andres123dev/my-url-scraper/">My URL scraper</a>  
 				<br> Terminal app to make a HTTP request to an URL and analyze interactively the response.  
 			</li>
+			<li> <a href="https://github.com/andres123dev/my-crud/">My CRUD</a>  
+				<br> A web CRUD using singleton pattern.  
+			</li>
 			<li> <a href="https://github.com/andres123dev/my-paint-board-vanilla/">My PaintBoard vanilla</a>  
 				<br> Paint board as local web application.  
+			</li>
+			<li> <a href="https://github.com/andres123dev/my-paint-board/">My PaintBoard</a>  
+				<br> An improved web Paint board.  
 			</li>
 		</ul>
 	</td>
 </tr>
-</tbody>
-</table>
+<tr><th align="center" valign="middle" colspan="2"> GitHub stats: </th></tr>
+<tr>
+	<td align="center">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres123dev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=20" alt="andres123dev's GitHub Stats" width="100%" />
+	</td>
+	<td>
+		<img src="https://github-readme-stats.vercel.app/api?username=andres123dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="andres123dev's GitHub Stats" width="100%" />
+  		<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=andres123dev&theme=tokyonight&hide_border=true" alt="andres123dev's GitHub Stats" />-->
+	</td>
+</tr>
+</thead>
 
-<table width="100%" border="0" cellpadding="0" csellspacing="0" align="center">
 <tbody>
 <tr>
 	<th align="center" valign="middle" colspan="2"> Multiplatform development: </th>
@@ -134,15 +143,6 @@
 	</td>
 </tr>
 
-<tr><th align="center" valign="middle" colspan="2"> GitHub stats: </th></tr>
-<tr>
-	<td width="50%" align="left" valign="top">
-		<img src="https://github-readme-stats.vercel.app/api?username=andres123dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="andres123dev's GitHub Stats" width="100%" />
-	</td>
-	<td width="50%" align="right" valign="top">
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=andres123dev&theme=tokyonight&hide_border=true" alt="andres123dev's GitHub Stats" />
-	</td>
-</tr>
 </tbody>
 </table>
 
