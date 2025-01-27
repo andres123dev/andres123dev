@@ -25,16 +25,17 @@
 	</tr>
 <tr>
 	<td width="50%" align="center" valign="top">
-		<p>Muy buenas, soy Andrés, un desarrollador de España.</p>  
+		<br><p>Muy buenas, soy Andrés, un desarrollador de España.</p>  
 		<p>En mi perfil puedes ver algunos pequeños proyectos cómo:</p>  
+		<br>
 	</td>
-	<td width="50%" align="center" valign="top">  
-		<p>Greetings, I'm Andres, a developer from Spain.</p>  
-		<p>In my profile you can see some little projects like:</p>  
+	<td width="50%" align="center" valign="top">
+		<br><p>Greetings, I'm Andres, a developer from Spain.</p>  
+		<p>In my profile you can see some little projects like:</p> <br>  
 	</td>
 </tr>
 <tr>
-	<td colspan="2">
+	<td colspan="2"><br>
 		<ul>
 			<li> <a href="https://github.com/andres123dev/my-seo-analyzer/">My SEO analyzer</a>  
 				<br> Script to request a HTML webpage, analyze the SEO of the response and generate a report in PDF format. 
@@ -51,7 +52,7 @@
 			<li> <a href="https://github.com/andres123dev/my-paint-board/">My PaintBoard</a>  
 				<br> An improved web Paint board.  
 			</li>
-		</ul>
+		</ul><br>
 	</td>
 </tr>
 <tr><th align="center" valign="middle" colspan="2"> GitHub stats: </th></tr>
@@ -79,8 +80,9 @@
 	</td>
 	<td width="50%" align="right" valign="top">
 		<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> 
-		<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> 
 		<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
+		<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> 
+		[Windows]()
 	</td>
 </tr>
 <tr>
@@ -88,12 +90,12 @@
 	<th align="center" valign="middle" colspan="2"> Web development: </th>
 </tr>
 <tr>
-	<td width="50%" align="left" valign="top"> Frontend languajes:  <br>
+	<td width="50%" align="left" valign="top"> Frontend languages:  <br>
 		<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML 5" width="40" height="40"/> </a> 
 		<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS 3" width="40" height="40"/> </a> 
 		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> </a> 
 	</td>
-	<td width="50%" align="right" valign="top"> Backend languajes:  <br>
+	<td width="50%" align="right" valign="top"> Backend languages:  <br>
 		<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a> 
 	</td>
 </tr>
