@@ -23,6 +23,7 @@
 			</pre>
 		</td>
 	</tr>
+<tr> <td colspan="2"> <img src="img/AndresIQ.jpg" width="100%"/> </td> </tr>
 <tr>
 	<td width="50%" align="center" valign="top">
 		<br><p>Muy buenas, soy Andrés, un desarrollador de España.</p>  
