@@ -27,12 +27,14 @@
 <tr>
 	<td width="50%" align="center" valign="top">
 		<br><p>Muy buenas, soy Andrés, un desarrollador de España.</p>  
-		<p>En mi perfil puedes ver algunos pequeños proyectos cómo:</p>  
+		<p>Puedes visitar mi <a href="https://andres123dev.github.io/" target="_blank">sitio web frontend</a>.</p>  
+		<p>Además, en mi perfil puedes ver algunos pequeños proyectos cómo:</p>  
 		<br>
 	</td>
 	<td width="50%" align="center" valign="top">
 		<br><p>Greetings, I'm Andres, a developer from Spain.</p>  
-		<p>In my profile you can see some little projects like:</p> <br>  
+		<p>You can visit my <a href="https://andres123dev.github.io/" target="_blank">frontend web site</a>.</p>  
+		<p>Moreover, in my profile you can see some little projects like:</p> <br>  
 	</td>
 </tr>
 <tr>
@@ -43,6 +45,9 @@
 			</li>
 			<li> <a href="https://github.com/andres123dev/my-url-scraper/">My URL scraper</a>  
 				<br> Terminal app to make a HTTP request to an URL and analyze interactively the response.  
+			</li>
+			<li> <a href="https://github.com/andres123dev/andres123dev.github.io/">My frontend website</a>  
+				<br> My frontend website at https://andres123dev.github.io/
 			</li>
 			<li> <a href="https://github.com/andres123dev/my-crud/">My CRUD</a>  
 				<br> A web CRUD using singleton pattern.  
